@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/max578/max578.r-universe.dev
 	branch = HEAD
+[submodule "PESTO"]
+	path = PESTO
+	url = https://github.com/max578/PESTO
+	branch = main
+[submodule "kernR"]
+	path = kernR
+	url = https://github.com/max578/kernR
+	branch = main
 [submodule "masque"]
 	path = masque
 	url = https://github.com/max578/masque
@@ -9,4 +17,8 @@
 [submodule "picMort"]
 	path = picMort
 	url = https://github.com/max578/picMort
+	branch = main
+[submodule "proxymix"]
+	path = proxymix
+	url = https://github.com/max578/proxymix
 	branch = main
