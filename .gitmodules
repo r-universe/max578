@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/max578/max578.r-universe.dev
 	branch = HEAD
+[submodule "masque"]
+	path = masque
+	url = https://github.com/max578/masque
+	branch = main
 [submodule "picMort"]
 	path = picMort
 	url = https://github.com/max578/picMort
