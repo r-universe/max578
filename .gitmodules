@@ -6,6 +6,18 @@
 	path = PESTO
 	url = https://github.com/max578/PESTO
 	branch = main
+[submodule "decideR"]
+	path = decideR
+	url = https://github.com/max578/decideR
+	branch = main
+[submodule "gpfield"]
+	path = gpfield
+	url = https://github.com/max578/gpfield
+	branch = main
+[submodule "grainPlan"]
+	path = grainPlan
+	url = https://github.com/max578/grainPlan
+	branch = main
 [submodule "kernR"]
 	path = kernR
 	url = https://github.com/max578/kernR
