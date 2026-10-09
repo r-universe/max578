@@ -6,6 +6,14 @@
 	path = PESTO
 	url = https://github.com/max578/PESTO
 	branch = main
+[submodule "bacipair"]
+	path = bacipair
+	url = https://github.com/max578/bacipair
+	branch = main
+[submodule "conductoR"]
+	path = conductoR
+	url = https://github.com/max578/conductoR
+	branch = main
 [submodule "decideR"]
 	path = decideR
 	url = https://github.com/max578/decideR
@@ -25,6 +33,10 @@
 [submodule "masque"]
 	path = masque
 	url = https://github.com/max578/masque
+	branch = main
+[submodule "orchestraManifest"]
+	path = orchestraManifest
+	url = https://github.com/max578/orchestraManifest
 	branch = main
 [submodule "picMort"]
 	path = picMort
