@@ -6,9 +6,17 @@
 	path = PESTO
 	url = https://github.com/max578/PESTO
 	branch = main
+[submodule "apsimR"]
+	path = apsimR
+	url = https://github.com/max578/apsimR
+	branch = main
 [submodule "bacipair"]
 	path = bacipair
 	url = https://github.com/max578/bacipair
+	branch = main
+[submodule "cdzoo"]
+	path = cdzoo
+	url = https://github.com/max578/cdzoo
 	branch = main
 [submodule "conductoR"]
 	path = conductoR
@@ -26,13 +34,25 @@
 	path = grainPlan
 	url = https://github.com/max578/grainPlan
 	branch = main
+[submodule "kalmix"]
+	path = kalmix
+	url = https://github.com/max578/kalmix
+	branch = main
 [submodule "kernR"]
 	path = kernR
 	url = https://github.com/max578/kernR
 	branch = main
+[submodule "koine"]
+	path = koine
+	url = https://github.com/max578/koine
+	branch = main
 [submodule "masque"]
 	path = masque
 	url = https://github.com/max578/masque
+	branch = main
+[submodule "optimix"]
+	path = optimix
+	url = https://github.com/max578/optimix
 	branch = main
 [submodule "orchestraManifest"]
 	path = orchestraManifest
@@ -45,4 +65,12 @@
 [submodule "proxymix"]
 	path = proxymix
 	url = https://github.com/max578/proxymix
+	branch = main
+[submodule "survkit"]
+	path = survkit
+	url = https://github.com/max578/survkit
+	branch = main
+[submodule "terroir"]
+	path = terroir
+	url = https://github.com/max578/terroir
 	branch = main
