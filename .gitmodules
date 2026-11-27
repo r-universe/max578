@@ -26,6 +26,10 @@
 	path = decideR
 	url = https://github.com/max578/decideR
 	branch = main
+[submodule "flexyBayes"]
+	path = flexyBayes
+	url = https://github.com/max578/flexyBayes
+	branch = main
 [submodule "gpfield"]
 	path = gpfield
 	url = https://github.com/max578/gpfield
@@ -33,6 +37,10 @@
 [submodule "grainPlan"]
 	path = grainPlan
 	url = https://github.com/max578/grainPlan
+	branch = main
+[submodule "gretaR"]
+	path = gretaR
+	url = https://github.com/max578/gretaR
 	branch = main
 [submodule "janusplot"]
 	path = janusplot
@@ -69,6 +77,10 @@
 [submodule "proxymix"]
 	path = proxymix
 	url = https://github.com/max578/proxymix
+	branch = main
+[submodule "quorum"]
+	path = quorum
+	url = https://github.com/max578/quorum
 	branch = main
 [submodule "survkit"]
 	path = survkit
